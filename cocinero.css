@@ -1,0 +1,10 @@
+img{
+    width: 500px;
+    right: 320px;
+    border-radius: 30px;
+    position: sticky;
+}
+body{
+    background-color: rgb(143, 163, 203);
+}
+
